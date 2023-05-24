@@ -1,0 +1,6 @@
+<svg width="14" height="14" viewBox="0 0 14 14" fill="none">
+  <path
+    d="M0 6.11616V7.88384H10.6061L5.74495 12.7449L7 14L14 7L7 0L5.74495 1.25505L10.6061 6.11616H0Z"
+    fill="white"
+  />
+</svg>

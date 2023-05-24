@@ -1,0 +1,1 @@
+<div>Banner Component</div>

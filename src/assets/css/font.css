@@ -1,0 +1,54 @@
+.font-nav-link {
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 28px;
+  color: rgba(54, 19, 74, 1);
+}
+
+.font-sec-title {
+  font-weight: 700;
+  line-height: 40px;
+  color: rgba(0, 0, 0, 0.9);
+}
+
+.font-sec-content {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 28px;
+  color: rgba(54, 19, 74, 1);
+}
+
+.font-sec-content-underline {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 28px;
+  color: rgba(255, 164, 60, 1);
+}
+
+.font-side-title {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 28px;
+  color: rgba(54, 19, 74, 1);
+}
+
+.font-side-content {
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 23px;
+  color: rgba(180, 180, 196, 1);
+}
+
+.font-btn-fill {
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 21px;
+  color: rgba(255, 255, 255, 1);
+}
+
+.font-btn-outline {
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 21px;
+  color: rgba(54, 19, 74, 1);
+}
